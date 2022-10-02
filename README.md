@@ -1,7 +1,7 @@
 # Deno server using Oak
 Created a simple server to test how Deno and Oak works together.
 
-## Are you borded?
+## Are you bored?
 Try using this project 😉
 
 > Installation
